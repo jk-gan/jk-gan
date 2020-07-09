@@ -1,16 +1,16 @@
 ### 👋 Hi there 
 
-I'm a software craftman who working on [JiMATSHOP](https://www.jimatshop.com/) & [JiMATBIZ](https://www.jimatbiz.com/) to help digitalizing Malaysia grocery shops with my **superpower**(Elixir and Swift). I'm also a tools maker. I love **Rust** so I make a Rust web framework([obsidian](https://github.com/obsidian-rs/obsidian)) and a utility tool([aion](https://github.com/jk-gan/aion)) for it. I make tools for **React Native** developer as well ([redux-flipper](https://github.com/jk-gan/redux-flipper) & [flipper-plugin-redux-debugger](https://github.com/jk-gan/flipper-plugin-redux-debugger)) to help them debug redux state on their app. 
+I'm a software craftman who working on [JiMATSHOP](https://www.jimatshop.com/) & [JiMATBIZ](https://www.jimatbiz.com/) to help digitalizing Malaysia grocery shops with my **superpower**(Elixir and Swift). Previously worked on Fintech field to make cashless payment more convenient to Malaysian. I'm also a tools maker. I love **Rust** so I make a Rust web framework([obsidian](https://github.com/obsidian-rs/obsidian)) and a utility tool([aion](https://github.com/jk-gan/aion)) for it. I make tools for **React Native** developer as well ([redux-flipper](https://github.com/jk-gan/redux-flipper) & [flipper-plugin-redux-debugger](https://github.com/jk-gan/flipper-plugin-redux-debugger)) to help them debug redux state on their app. 
 
 ### 💬 Ask me about:
 - **Rust**
 - **SwiftUI**
 - **Elixir**
+- **What is in my brain**
 
 ### 📫 You can reach me here: 
 - Twitter: [@jk_gan](https://twitter.com/jk_gan)
 - LinkedIn: [Gan Jun Kai](https://www.linkedin.com/in/ganjk)
-- Email: [kuhn96@gmail.com](mailto:kuhn96@gmail.com)
 
 
 🥂 Cheers!
