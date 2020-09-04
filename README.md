@@ -1,6 +1,6 @@
-### 👋 Hi there 
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jk-gan&show_icons=true&include_all_commits=true&theme=algolia&hide_title=true" />
+
+### 👋 Hi there 
 
 I'm a software craftman who working on [JiMATSHOP](https://www.jimatshop.com/) & [JiMATBIZ](https://www.jimatbiz.com/) to help digitalizing Malaysia grocery shops with my **superpower**(**Elixir** and **Swift**). Previously worked on Fintech field to make cashless payment more convenient to Malaysian. I'm also a tools maker. I love **Rust** so I make a Rust web framework([obsidian](https://github.com/obsidian-rs/obsidian)) and a utility tool([aion](https://github.com/jk-gan/aion)) for it. I make tools for **React Native** developer as well ([redux-flipper](https://github.com/jk-gan/redux-flipper) & [flipper-plugin-redux-debugger](https://github.com/jk-gan/flipper-plugin-redux-debugger)) to help them debug redux state on their app. 
 
