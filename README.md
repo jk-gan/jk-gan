@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jk-gan&show_icons=true&include_all_commits=true&theme=algolia&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jk-gan&show_icons=true&include_all_commits=true&hide_title=true" />
 
 ### 👋 Hi there 
 
